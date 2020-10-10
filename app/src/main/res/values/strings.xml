@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PAM</string>
+    <string name="notification_button_text">Send notification</string>
+    <string name="google_search_input_placeholder">Search</string>
+    <string name="back_camera_text">Back camera</string>
+    <string name="front_camera_text">Front camera</string>
+    <string name="photo_button">Take photo</string>
+    <string name="channel_id">PAM</string>
+    <string name="channel_name">PAM</string>
+    <string name="channel_description">PAM</string>
+    <string name="taken_photo">Taken photo</string>
+    <string name="search_box_hint">Search</string>
+    <string name="take_photo">Take photo</string>
+    <string name="captured_photo">Captured photo</string>
+</resources>
